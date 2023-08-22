@@ -1,4 +1,4 @@
-# Diabetes-Prediction
+# Diabetes-Prediction System
 
 
 This repository contains a Python-based Diabetes Prediction System that utilizes machine learning techniques to predict the likelihood of an individual having diabetes based on certain input features. The system employs popular Python libraries for data preprocessing, model training, and evaluation.
